@@ -6,7 +6,7 @@ A comprehensive Power BI dashboard analyzing Virat Kohli's cricket performance a
 
 ## 📊 Dashboard Overview
 
-![Virat Kohli Performance Analysis](dashboard.jpg)
+![Virat Kohli Performance Analysis](dashboard.png)
 
 ---
 
@@ -36,7 +36,9 @@ A comprehensive Power BI dashboard analyzing Virat Kohli's cricket performance a
 
 ## 📁 Repository Structure
 
+```text
+.
 ├── Virat_Kohli_Performance_Analysis.pbix  # Main Power BI Report
 ├── Virat_Kohli_Dataset.xlsx               # Source Data File
-├── dashboard.jpg                          # High-resolution screenshot of the dashboard
+├── dashboard.png                          # High-resolution screenshot of the dashboard
 └── README.md                              # Project documentation
